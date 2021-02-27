@@ -3,7 +3,7 @@ export function Profile() {
     <div>
       <img src="github.com/matheusobarboza.png" alt="Matheus Barboza" />
       <div>
-          <strong>Matheus Barboza</strong>
+          <strong>Matheus</strong>
           <p>Level 1</p>
       </div>
     </div>
